@@ -1,12 +1,13 @@
 ## 🌕 About 121786addzczd
 Hi, I'm an illustrator and backend engineer. 🤝
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=121786addzczd&theme=vue)
+
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=121786addzczd&left_color=gray&right_color=blue)
  
 ## my skils
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,jquery,js,nodejs,ts,jest,cypress,selenium,express,react,nextjs,vite,php,laravel,ruby,rails,py,django,fastapi,dotnet,aws,dynamodb,linux,ubuntu,git,gitlab,github,jenkins,docker,terraform,vim,neovim,npm,postman,figma,notion,md,postgres,mysql)](https://skillicons.dev)
 
 ## status
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=121786addzczd&theme=vue)
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=121786addzczd&show_icons=true)
  
