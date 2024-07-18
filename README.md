@@ -5,3 +5,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=121786addzczd&show_icons=true)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=121786addzczd&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
