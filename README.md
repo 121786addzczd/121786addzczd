@@ -18,7 +18,8 @@ Hi, I'm an illustrator and backend developer from Japan.
 
 ## status
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=121786addzczd&show_icons=true&locale=en&layout=compact" alt="airinarita" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=121786addzczd&show_icons=true&locale=en&layout=compact&cache_seconds=600" alt="airinarita" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=121786addzczd&show_icons=true&locale=en" alt="airinarita" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=121786addzczd&margin-w=5)](https://github.com/121786addzczd/)
