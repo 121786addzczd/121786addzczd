@@ -6,15 +6,15 @@ Hi, I'm an illustrator and backend developer from Japan.
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php,ruby,dotnet," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php,java,ruby,dotnet,c" /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,jquery,nodejs,jest,cypress,selenium,express,react,nextjs,vite,laravel,rails,django,fastapi,npm" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,jquery,nodejs,jest,cypress,selenium,express,react,nextjs,vite,laravel,rails,django,fastapi,npm,spring,vue" /> <br /><br />
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,dynamodb,linux,ubuntu,git,gitlab,github,jenkins,docker,terraform,vim,neovim,postman,figma,notion,md" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,dynamodb,linux,ubuntu,git,gitlab,github,jenkins,docker,terraform,vim,neovim,postman,figma,notion,md,bash,eclipse,maven,powershell,visualstudio" /> <br /><br />
 
 ## status
 
