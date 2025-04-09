@@ -10,11 +10,11 @@ Hi, I'm an illustrator and backend developer from Japan.
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,jquery,nodejs,jest,cypress,selenium,express,react,nextjs,vite,laravel,rails,django,fastapi,npm,spring,vue" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,jquery,nodejs,jest,cypress,selenium,express,react,nextjs,vite,laravel,rails,django,fastapi,npm,spring,maven,vue,nuxtjs,pinia" /> <br /><br />
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,dynamodb,linux,ubuntu,git,gitlab,github,jenkins,docker,terraform,vim,neovim,postman,figma,notion,md,bash,eclipse,maven,powershell,visualstudio" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,dynamodb,apollo,graphql,linux,ubuntu,git,gitlab,github,jenkins,gcp,docker,nginx,terraform,vim,neovim,postman,figma,notion,md,bash,eclipse,powershell,visualstudio" /> <br /><br />
 
 ## status
 
