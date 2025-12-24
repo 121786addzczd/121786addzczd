@@ -6,7 +6,7 @@ Hi, I'm an illustrator and backend developer from Japan.
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php,java,ruby,dotnet,c" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php,java,ruby,dotnet,c,cs" /> <br /><br />
 
 ## Frameworks and Library
 
@@ -14,7 +14,7 @@ Hi, I'm an illustrator and backend developer from Japan.
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,dynamodb,apollo,graphql,linux,ubuntu,git,gitlab,github,jenkins,gcp,docker,nginx,terraform,vim,neovim,postman,figma,notion,md,bash,eclipse,powershell,visualstudio" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,dynamodb,apollo,graphql,linux,ubuntu,git,gitlab,github,jenkins,gcp,docker,nginx,terraform,vim,neovim,postman,figma,notion,md,bash,eclipse,powershell,visualstudio" /> <br /><br />
 
 ## status
 
